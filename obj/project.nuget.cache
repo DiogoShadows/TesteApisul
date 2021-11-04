@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/DleHySH+XnCYnhCeI7IFDfJOQ4bN543kOM5zESz7lS/q7BcmCIF3gQ8KBhF1VxnaLHy21ZhD0UVo/VOgcQWHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\Desktop\\Teste Apisul\\TesteApisul\\TesteApisul.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
